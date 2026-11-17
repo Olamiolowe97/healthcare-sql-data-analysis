@@ -2,6 +2,8 @@
 
 **A Relational Database Analysis of Patient Demographics, Medical Conditions, Hospital Admissions and Doctor Performance**
 
+![](patient_doctor_output.png)
+
 ## Executive Summary
 
 This project applies SQL-based analytical techniques to a healthcare database to examine patient demographics, admission characteristics, medical conditions, hospital stay patterns, and doctor-patient relationships.
@@ -169,23 +171,23 @@ The following screenshots document selected stages of the analysis, including SQ
 
 **Conditional Filtering and Patient Segmentation**
 
-![Conditional filtering](screenshots/sales_sql_output_1.png)
+![Conditional filtering](sales_sql_output_1.png)
 
 **Text Transformation and Standardisation**
 
-![String transformation](screenshots/sales_sql_output_2.png)
+![String transformation](sales_sql_output_2.png)
 
 **Derived Variables and Hospital Stay Classification**
 
-![Hospital stay classification](screenshots/sales_sql_output_4.png)
+![Hospital stay classification](sales_sql_output_4.png)
 
 **Relational Integration of Patient and Doctor Records**
 
-![Relational data integration](screenshots/sales_sql_output_5.png)
+![Relational data integration](sales_sql_output_5.png)
 
 **Demographic Segmentation Using Conditional Logic**
 
-![Demographic classification](screenshots/sales_sql_output_6.png)
+![Demographic classification](sales_sql_output_6.png)
 
 ## Analytical Value
 
