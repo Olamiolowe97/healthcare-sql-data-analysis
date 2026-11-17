@@ -208,7 +208,7 @@ This project demonstrates a practical application of SQL in relational healthcar
 
 It reflects an analytical approach that moves beyond basic data retrieval to examining relationships within datasets, deriving meaningful classifications, and producing query outputs that address specific information requirements.
 
-The work also establishes a foundation for more advanced healthcare analytics, including patient admission trend analysis, treatment outcome assessment, resource utilisation, and operational performance monitoring.
+The work also establishes a foundation for more advanced healthcare analytics, including patient admission trend analysis, treatment outcome assessment, resource utilisation, and operational performance monitoring..
 
 ---
 
